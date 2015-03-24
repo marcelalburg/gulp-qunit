@@ -25,7 +25,7 @@
     "chalk": "^0.5.1",
     "gulp-util": "^3.0.0",
     "phantomjs": "^1.9.12",
-    "qunit-phantomjs-runner": "^2.1.0",
+    "qunit-phantomjs-runner": "https://github.com/marcelalburg/qunit-phantomjs-runner/tarball/master",
     "through2": "^0.6.1"
   },
   "devDependencies": {
